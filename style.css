@@ -17,8 +17,10 @@ body {
 }
 
 @media (max-width: 768px) {
+
   .image__block {
     text-align: center;
+    
   }
 }
 .container {
